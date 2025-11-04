@@ -70,6 +70,9 @@ export DISCORD_TOKEN=your_bot_token_here
 # Then run
 python bot.py
 ```
+or
+python gateway-bot.py
+```
 
 **Bot Permissions**: Make sure your bot has these permissions:
 - Read Messages
