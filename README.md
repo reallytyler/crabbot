@@ -34,11 +34,11 @@ A Discord bot inspired by [cat-bot](https://github.com/milenakos/cat-bot) but fe
 Instructions
 Clone the repository. You can use the green "Code" button at the top or a git command:
    ```bash
-git clone 
+git clone ```
 
 Install requirements:
    ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 If you are running a Gateway Proxy, do pip install -r requirements.txt instead. This uses a custom fork which contacts localhost:7878 instead and removes ratelimits and heartbeats.
 
@@ -52,7 +52,7 @@ Go inside of the config.py file and configure everything to your liking.
 
 Run the bot with 
    ```bash
-   python bot.py.
+   python bot.py```
 
 
 Done!
