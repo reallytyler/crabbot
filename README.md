@@ -78,7 +78,6 @@ python bot.py
 - Use Slash Commands
 - Read Message History
 - Add Reactions
-```
 
 The main fixes:
 - Added proper indentation to all bash code blocks
@@ -87,3 +86,4 @@ The main fixes:
 - Fixed the pip install commands formatting
 - Added proper spacing between sections
 - Added additional configuration section for clarity
+
