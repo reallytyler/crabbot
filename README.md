@@ -2,6 +2,8 @@
 
 A Discord bot inspired by [cat-bot](https://github.com/milenakos/cat-bot) but featuring crabs! Catch crabs, earn coins, level up, and compete with friends.
 
+[![DiscordTools Banner](https://img.shields.io/badge/Crab-Bot%20Crab-Tools-5865f2?style=for-the-badge&logo=discord)](https://discord.com/invite/EsznpytuYT)
+
 ## 📋 Features
 
 - **🦀 Random Crab Appearances**: Crabs spawn in configured channels
