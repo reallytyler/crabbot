@@ -6,6 +6,8 @@ A Discord bot inspired by [cat-bot](https://github.com/milenakos/cat-bot) but fe
 ![License](https://img.shields.io/badge/License-AGPL-blue?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.3.0-purple?style=for-the-badge)
 
+Add the Bot NOW! https://discord.com/oauth2/authorize?client_id=1435233279522635908&permissions=8&integration_type=0&scope=bot
+
 # Development
 Please note that self-hosting is not allowed; no instructions will be provided because i'm lazy, I won't stop you, but you WILL have to mess around with the code a bunch for it to work good in your way, you can't redistribute but you can change a couple stuff to redistribute it. If you want to be inspired by this fork it, or just include the page!
 
