@@ -60,25 +60,4 @@ A Discord bot inspired by [cat-bot](https://github.com/milenakos/cat-bot) but fe
 
 ## ✅ Done!
 
-### Additional Configuration.
-
-**Environment Variables** (optional):
-```bash
-# Set your Discord token
-export DISCORD_TOKEN=your_bot_token_here
-
-# Then run
-python bot.py
-```
-or
-python gateway-bot.py
-```
-
-**Bot Permissions**: Make sure your bot has these permissions:
-- Read Messages
-- Send Messages 
-- Embed Links
-- Use Slash Commands
-- Read Message History
-- Add Reactions
 
