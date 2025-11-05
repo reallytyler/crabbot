@@ -32,35 +32,5 @@ Please note that self-hosting is not allowed; no instructions will be provided b
 8. **⚖️ AGPL-3.0 Compliance** - Proper license headers and attribution
 9. **📈 Uptime Tracking** - Bot performance monitoring
 
-## 🚀 Installation
-
-### Instructions
-
-1. **Clone the repository**. You can use the green "Code" button at the top or a git command:
-   ```bash
-   git clone https://github.com/your-username/crab-bot.git
-   cd crab-bot
-   ```
-
-2. **Install requirements**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **If you are running a Gateway Proxy**, use this instead (uses a custom fork which contacts localhost:7878 and removes ratelimits and heartbeats):
-   ```bash
-   pip install -r requirements-gateway.txt
-   ```
-
-4. **Add emojis**: You will need to add all emojis you want to Discord's App Emoji in the Dev Portal. If they aren't found there, they will be replaced with a placeholder. All emojis can be downloaded from the `emojis/` folder.
-
-5. **Configure the bot**: Go inside of the `config.py` file and configure everything to your liking.
-
-6. **Run the bot**:
-   ```bash
-   python bot.py
-   ```
-
-## ✅ Done!
 
 
