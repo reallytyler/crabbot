@@ -1,15 +1,13 @@
 {
   "name": "crab-bot",
-  "version": "2.2.0",
-  "description": "Advanced crab bot with server-specific features",
+  "version": "4.0.0",
+  "description": "Crab bot with catch system",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.14.1"
-  },
-  "engines": {
-    "node": ">=18.0.0"
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
   }
 }
