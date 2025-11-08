@@ -1,0 +1,27 @@
+{
+  "name": "crab-bot",
+  "version": "4.3.0",
+  "description": "A Discord bot inspired by cat-bot but featuring crabs!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "crab",
+    "game",
+    "economy"
+  ],
+  "author": "Crab Bot Team",
+  "license": "AGPL-3.0"
+}
