@@ -5,7 +5,7 @@ A feature-rich Discord bot inspired by cat-bot but with a crab twist! Catch rare
 ---
 
 [![Discord](https://img.shields.io/badge/DISCORD-Add%20Crab%20Bot-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1435233279522635908&permissions=8&integration_type=0&scope=bot)
-![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)](https://github.com/reallytyler/crabbot/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)](https://github.com/reallytyler/crabbot/blob/main/LICENSE)
 ![Version](https://img.shields.io/badge/Version-4.3.0-purple?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green?style=for-the-badge&logo=nodedotjs)
 
